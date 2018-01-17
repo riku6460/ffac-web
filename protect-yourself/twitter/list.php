@@ -100,7 +100,7 @@
                 block_btn.setAttribute("disabled", "");
                 block_btn.innerText = "処理中です…";
                 $.post(
-                    "https://ffac.g-second.net/protect-yourself/twitter/block.php",
+                    "https://ffac.riku.pw/protect-yourself/twitter/block.php",
                     {
                         "user[]": user_list
                     },
