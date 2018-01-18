@@ -23,14 +23,13 @@
                     <div class="card-content">
                         リストアップされているアカウントは、<br />
                         全てGitHub上でバージョン管理されています。<br />
-                        <a class="btn" href="https://github.com/Twitter-FFAC/fight-for-artistic-creativity/issues/6" target="blank">不審なユーザを見つけたら、ここから投稿しましょう。</a>
+                        <a class="btn" href="https://github.com/Twitter-FFAC/fight-for-artistic-creativity/issues/6" target="blank">ここから投稿</a>
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="card">
                     <div class="card-icon"><i class="fa fa-server" aria-hidden="true"></i></div>
-B
                     <div class="card-header">ホストして守る</div>
                     <div class="card-content">
                         このWEBサイト・システムは、<br />

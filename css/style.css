@@ -54,9 +54,10 @@
             }
             .header-title {
                 font-size: 1.5em;
+                margin: .25em;
             }
             .header-subtitle {
-                
+                margin: .25em;
             }
         .container {
             padding: 20px 100px;
@@ -82,9 +83,11 @@
                 font-size: 2em;
                     font-weight: bold;
                 text-align: center;
+                margin: .25em;
             }
             .card-content {
                 text-align: center;
+                line-height: 1.25em;
             }
     /* Component */
         .btn {
